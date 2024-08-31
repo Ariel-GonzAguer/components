@@ -1,0 +1,21 @@
+.dialog {
+  padding: 100px;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: red;
+}
+
+.dialog[open] {
+  scale: 1;
+  transition: scale 1s ease;
+  
+  @starting-style {
+    scale: 0;
+  }
+}
+
+.dialog {
+  scale: 0;
+  transition: scale 1s ease,
+  display 1s allow-discrete;
+}
