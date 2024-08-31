@@ -1,0 +1,50 @@
+h2 {
+  color: black,
+}
+
+.homePage {
+  background-color: aqua;
+  height: 1600px;
+  width: auto;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.component_0 {
+  background-color: lightgreen;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.component_1 {
+  background-color: lightpink;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.component_2 {
+  background-color: lightgoldenrodyellow;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.component_3 {
+  background-color: lightblue;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
